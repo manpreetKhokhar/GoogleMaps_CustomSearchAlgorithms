@@ -247,8 +247,8 @@ public class GreedyCache {
 	
 
 	public static void main(String[] args) {
-		String logFileAddress="C:/Users/acer/Desktop/QLogs/logfile.log";
-		String expFileAddress="C:\\Users\\acer\\Desktop\\expenses.csv";
+		String logFileAddress="/QLogs/logfile.log";
+		String expFileAddress="\\expenses.csv";
 		MapGraph theMap = new MapGraph();
 		System.out.print("DONE. \nLoading the map...");
 		GraphLoader.loadRoadMap("data/maps/utc.map", theMap);

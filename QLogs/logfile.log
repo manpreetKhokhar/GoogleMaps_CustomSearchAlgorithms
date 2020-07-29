@@ -1,0 +1,12 @@
+INFO  | 2020-05-12 16:17:32 | [main] roadgraph.MapGraph (MapGraph.java:371) aStarSearch- Query:(32.8682046,-117.2211046)->(32.8674388,-117.2190213)
+INFO  | 2020-05-12 16:17:32 | [main] roadgraph.MapGraph (MapGraph.java:422) aStarSearch- Result: Found=[true] - Explored vertices=[3]
+INFO  | 2020-05-12 16:17:32 | [main] roadgraph.MapGraph (MapGraph.java:229) constructPath- Path:[Lat: 32.8682046, Lon: -117.2211046, Lat: 32.8674959, Lon: -117.2191454, Lat: 32.8674388, Lon: -117.2190213]
+INFO  | 2020-05-12 16:17:54 | [main] roadgraph.MapGraph (MapGraph.java:371) aStarSearch- Query:(32.8682046,-117.2211046)->(32.8674388,-117.2190213)
+INFO  | 2020-05-12 16:17:54 | [main] roadgraph.MapGraph (MapGraph.java:422) aStarSearch- Result: Found=[true] - Explored vertices=[3]
+INFO  | 2020-05-12 16:17:54 | [main] roadgraph.MapGraph (MapGraph.java:229) constructPath- Path:[Lat: 32.8682046, Lon: -117.2211046, Lat: 32.8674959, Lon: -117.2191454, Lat: 32.8674388, Lon: -117.2190213]
+INFO  | 2020-05-12 16:18:15 | [main] roadgraph.MapGraph (MapGraph.java:371) aStarSearch- Query:(32.869423,-117.220917)->(32.869255,-117.216927)
+INFO  | 2020-05-12 16:18:15 | [main] roadgraph.MapGraph (MapGraph.java:422) aStarSearch- Result: Found=[true] - Explored vertices=[5]
+INFO  | 2020-05-12 16:18:15 | [main] roadgraph.MapGraph (MapGraph.java:229) constructPath- Path:[Lat: 32.869423, Lon: -117.220917, Lat: 32.869488, Lon: -117.220108, Lat: 32.869606, Lon: -117.21839, Lat: 32.8696045, Lon: -117.2182699, Lat: 32.869255, Lon: -117.216927]
+INFO  | 2020-05-12 16:19:52 | [main] roadgraph.MapGraph (MapGraph.java:371) aStarSearch- Query:(32.8674388,-117.2190213)->(32.8697828,-117.2244506)
+INFO  | 2020-05-12 16:19:52 | [main] roadgraph.MapGraph (MapGraph.java:422) aStarSearch- Result: Found=[true] - Explored vertices=[10]
+INFO  | 2020-05-12 16:19:52 | [main] roadgraph.MapGraph (MapGraph.java:229) constructPath- Path:[Lat: 32.8674388, Lon: -117.2190213, Lat: 32.8675914, Lon: -117.2189246, Lat: 32.8676364, Lon: -117.2190487, Lat: 32.8683381, Lon: -117.2210633, Lat: 32.868528, Lon: -117.2247431, Lat: 32.8697828, Lon: -117.2244506]
